@@ -3,3 +3,5 @@ When I started learning swoole at https://www.swoole.com and http://swoole.co.uk
 Well, apparently, the swoole docs are made for advanced developers, which are very advanced. I've been working with PHP for about 10 years, but it's still hard to get started.
 
 So after reading the documentation I mentioned above, I spent almost a week building structures from everything I knew into php programming structures that fit my programming style (hopefully it suits you too), so I can focus on the logic I need for my project.
+
+Sebagai sebuah catatan, prerequisites dan instalasi swoole silahkan baca di https://www.swoole.co.uk/docs/get-started/prerequisites dan https://www.swoole.co.uk/docs/get-started/installation. Dokumentasi ini tidak mengulang lagi tentang petunjuk instalasi, tetapi fokus pada tahapan-tahapan untuk membangun sebuah aplikasi php dalam environment swoole.
